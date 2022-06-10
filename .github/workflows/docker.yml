@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: cinnaahml/flask-demo:latest
+          tags: cinnaahml/flask-demo1:v1
